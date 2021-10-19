@@ -1,5 +1,5 @@
 # HR-Analytics Project
-**The main project's target is to find out _HOW TO RETAIN IT EMPLOYEES
+**The main project's target is to find out _HOW TO RETAIN IT EMPLOYEES_**
 
 ## Architecture
 ![Architecture](images/architecture.jpg)
